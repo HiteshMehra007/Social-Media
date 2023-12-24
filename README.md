@@ -1,4 +1,4 @@
-# Social Media CLone
+# Social Media Clone
 
 This is a simple Social Media Clone.
 
