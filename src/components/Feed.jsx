@@ -1,7 +1,12 @@
+import CreatePost from "./CreatePost";
+import Posts from "./Posts";
 
 const Feed = () => {
   return (
-    <div>Feed</div>
+    <div className="max-w-64 m-auto border border-gray-500">
+      <CreatePost />
+      <Posts />
+    </div>
   )
 }
 
