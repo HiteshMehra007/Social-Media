@@ -3,7 +3,7 @@ import Posts from "./Posts";
 
 const Feed = () => {
   return (
-    <div className="max-w-64 m-auto border border-gray-500">
+    <div className="max-w-[40%] m-auto border border-gray-500">
       <CreatePost />
       <Posts />
     </div>
